@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.count-down-conatiner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
+}
+.head{
+    margin-bottom: 20px;
+}
+.timer{
+    color: navy;
+    font-family: 'Roboto';
+    margin-bottom: 10px;
+}
